@@ -1,5 +1,6 @@
-Student Performance App
-Project Overview
+## Student Performance App
+
+### Project Overview
 The Student Performance App is a multi-class classification project that predicts a student's performance based on their habits and background details. The possible output categories are Good, Fair, or Excellent.
 
 This project leverages data science and machine learning techniques, implemented in Python, and is deployed using Streamlit for interactive web-based usage.
