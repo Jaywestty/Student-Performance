@@ -11,3 +11,7 @@ This project leverages data science and machine learning techniques, implemented
 - Performance Prediction: Based on the input data, the app predicts the student’s performance category as Good, Fair, or Excellent.
 
 - Interactive Interface: Clean and responsive design built with Streamlit for a smooth user experience.
+
+## Live App
+You can try the live version of the app here:  
+[**Click to open the app**](https://student-performannce.streamlit.app/)
